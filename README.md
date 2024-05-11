@@ -1,0 +1,1 @@
+Esta automação em Python é projetada para simplificar o processo de cadastro em um sistema web. Utilizando as bibliotecas pandas, pyautogui e time, o script automatiza as etapas de preenchimento de formulários online.
